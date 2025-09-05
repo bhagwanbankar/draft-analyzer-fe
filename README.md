@@ -12,7 +12,6 @@ A modern React-based frontend for analyzing government policy documents. Built w
 - 💬 Summarization and prompt-based Q&A
 - 📊 Score analysis with visual charts (Recharts)
 - 📥 Downloadable report (PDF)
-- 💡 Responsive, interactive UI with Ant Design + Tailwind CSS
 - 🔧 Zustand for global state management
 - ⚙️ Local mock API server using Express (in `/mock-server`)
 

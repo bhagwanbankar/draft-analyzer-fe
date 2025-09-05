@@ -13,7 +13,7 @@ const Footer = () => {
                 alt="Logo"
                 className="h-10 object-contain"
               />
-              {/* <span className="font-bold text-xl text-blue-600">Civis</span> */}
+              
             </div>
           </div>
         </Col>

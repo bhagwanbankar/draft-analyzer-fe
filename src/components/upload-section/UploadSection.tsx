@@ -39,7 +39,7 @@ export default function UploadSection() {
   const setUploadResponse = useDocumentStore(state => state.setUploadResponse);
 
   const sessionId = "abc123"; // Replace with real logic
-  const userId = "user456"; // Replace with real logic
+  const userId = "Admin"; // TODO
 
   const resetUploadState = () => {
 
